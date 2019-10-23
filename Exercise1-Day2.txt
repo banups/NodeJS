@@ -1,0 +1,7 @@
+Promises
+Callbacks in Nodejs is a great feature to make sure asynchronous coding but  implementing nested callbacks becomes messy.To resolve 
+this Promises in nodejs is used. Promises notify if a request is fullfilled or rejected. Unlike callbacks these can be chained. 
+
+Async/Await
+Async/await is a new way to write asynchronous code.Previous alternatives for asynchronous code are callbacks and promises. It is actually 
+just syntax sugar built on top of promises.Using Async/Await makes us write less code by simplifying working with promises.
