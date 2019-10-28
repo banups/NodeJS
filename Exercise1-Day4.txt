@@ -1,0 +1,10 @@
+Node is as a leader in the asynchronous framework market. 
+The platform now supports a huge portion of startups and businesses that are earning hundreds of millions of dollars in revenue. 
+Thus, it establishes itself as a platform that can sustain huge load, whilst retaining smooth performance. 
+Node.js was perhaps the biggest revelation of modern server engineering that we saw.
+By the looks of it, Node isn’t stopping any time soon; it’s the exact opposite. 
+The project continues to push out frequent updates, and maintains old releases to support older platforms. 
+A new release secures some loopholes in OpenSSL, but also adds more support for languages like C and C++.
+Starting with Node.js is a fairly easy process; the guidelines are outlined and thousands of projects are sitting on GitHub, waiting for you to inspect and analyze their architecture. 
+Node.js works great on all platforms, even on Windows 10, for those who are interested. That makes it a truly great platform to begin learning front-end and back-end development together.
+ Let’s not forget that Node has the most populated package manager of any framework or language known to man. 
