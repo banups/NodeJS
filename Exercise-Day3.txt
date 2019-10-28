@@ -1,0 +1,12 @@
+Day-3
+Exercise 1:
+Create your own NPM package and publish it. (after evaluation delete it)
+Created npmtestpackage .
+Screenshot uploaded as Capture.png
+
+Exercise 2:
+Create a package.json file and list atleast 5 nodejs packages along with their versions (use CLI). 
+Explain the importance of this file.
+ All npm packages contain a file, usually in the project root, called package.json - this file holds various metadata relevant to 
+ the project.This file is used to give information to npm that allows it to identify the project as well as handle the project's 
+ dependencies.
