@@ -1,0 +1,17 @@
+{
+  "name": "dateapp",
+  "version": "1.0.0",
+  "description": "Convert EPOC date to readable date",
+  "main": "server.js",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Priya (banups)",
+  "license": "ISC"
+}
