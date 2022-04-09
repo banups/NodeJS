@@ -4,7 +4,7 @@
   "description": "Convert EPOC date to readable date",
   "main": "server.js",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "os": "^0.1.1"
   },
   "devDependencies": {},
